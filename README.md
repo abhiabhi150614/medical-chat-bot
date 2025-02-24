@@ -1,4 +1,4 @@
-# Medical Knowledge Retrieval System
+# Medical Chat bot or Medical Knowledge Retrieval System 
 
 ## Overview
 This project is a **Medical Knowledge Retrieval System** designed to efficiently process and query a **1000-page medical encyclopedia**. It utilizes **natural language processing (NLP)** and **vector search techniques** to retrieve relevant information from large textual datasets.
